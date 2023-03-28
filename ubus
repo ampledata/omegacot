@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+import json
+
+test_data = {
+    "age": "1",
+    "latitude": "35.421299",
+    "longitude": "-78.656219",
+    "elevation": "40.4",
+    "course": "274.1",
+    "speed": "0.0"
+}
+
+print(json.dumps(test_data))
