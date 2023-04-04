@@ -4,8 +4,8 @@ import json
 
 test_data = {
     "age": "1",
-    "latitude": "35.421299",
-    "longitude": "-78.656219",
+    "latitude": "39.521299",
+    "longitude": "-79.756219",
     "elevation": "40.4",
     "course": "274.1",
     "speed": "0.0"
